@@ -4,6 +4,7 @@ from src.analyze_log import (
     get_days_that_client_never_camed
 )
 
+
 class TrackOrders:
     def __init__(self):
         self.data = []
